@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 
-public class randomHuita {
+public class RandomNumbers {
     public static void main(String[] args) {
         Integer mas[] = new Integer[10];
         for (int i = 0; i < 10; i++) {
